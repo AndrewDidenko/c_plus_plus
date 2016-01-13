@@ -2,5 +2,5 @@
 
 git config --global user.name "First Last"         #set username
 git config --global user.email "aaa@gmail.com"     #set user's email
-git config --global core.editor notepad            #используем блокнот как тестовый редактор для commit description поля.
+git config --global core.editor notepad          #используем блокнот как тестовый редактор для commit description поля.
 git config --global --list                         #show config file information
