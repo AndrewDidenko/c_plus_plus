@@ -1,0 +1,825 @@
+Stroustrup - Part I - Chapter 4 - Types and Declarations                     -finished 0/7
+4.1 Types [dcl.type]
+4.1.1 Fundamental Types [dcl.fundamental]
+4.2 Booleans [dcl.bool]
+4.3 Character Types [dcl.char]
+4.3.1 Character Literals [dcl.char.lit]
+4.4 Integer Types [dcl.int]
+4.4.1 Integer Literals [dcl.int.lit]
+4.5 Floating-Point Types [dcl.float]
+4.5.1 Floating-Point Literals [dcl.fp.lit]
+4.6 Sizes [dcl.size]
+4.7 Void [dcl.void]
+4.8 Enumerations [dcl.enum]
+4.9 Declarations [dcl.dcl]
+4.9.1 The Structure of a Declaration [dcl.parts]
+4.9.2 Declaring Multiple Names [dcl.multi]
+4.9.3 Names [dcl.name]
+4.9.4 Scope [dcl.scope]
+4.9.5 Initialization [dcl.init]
+4.9.6 Objects and Lvalues [dcl.objects]
+4.9.7 Typedef [dcl.typedef]
+4.10 Advice [dcl.advice]
+4.11 Exercises  [dcl.exercises]
+4.11.02
+4.11.03
+4.11.04
+4.11.05
+4.11.06
+4.11.07
+Stroustrup ­ Part I ­ Chapter 5 ­ Pointers, Arrays, and Structures        ­finished 3/13
+*5.4.1 Pointers and Constants [ptr.pc]
+*5.6 Pointer to Void [ptr.ptrtovoid]
+*5.9 Exercises [ptr.exercises]
+5.9.06
+5.9.07
+5.9.08
+5.9.09
+5.9.10
+5.9.11
+5.9.12
+5.9.13
+Stroustrup ­ Part I ­ Chapter 6 ­ Expressions and Statements             ­finished 5/23
+*6.1.7 Command­Line Arguments [expr.command] (íåïîíÿòíî, êàê êàëüêóëÿòîð ïðèíèìàåò íà÷àëüíûå ïàðàìåòðû ïðè çàïóñêå exe­ôàéëà.)
+*6.2 Operator Summary [expr.operators] (íàäî åùå ïîçíàêîìèòüñÿ ñ äîáðîé ïîëîâèíîé îïåðàòîðîâ)
+*6.2.4 Bitwise Logical Operators [expr.logical] (íå ïîíÿë áèòîâûå îïåðàöèè ïî äàííîìó ïóíêòó, íàäî îòäåëüíî ðûòüñÿ â èíòåðíåòå)
+6.2.6 Free Store [expr.free]
+6.2.6.1 Arrays [expr.array]
+6.2.6.2 Memory Exhaustion [expr.exhaust]
+6.2.7 Explicit Type Conversion [expr.cast]
+6.2.8 Constructors [expr.ctor]
+6.3 Statement Summary [expr.stmts]
+6.3.1 Declarations as Statements [expr.dcl]
+6.3.2 Selection Statements [expr.select]
+6.3.2.1 Declarations in Conditions [expr.cond]
+6.3.3 Iteration Statements [expr.loop]
+6.3.3.1 Declarations in For­Statements [expr.for]
+6.3.4 Goto [expr.goto]
+6.4 Comments and Indentation [expr.comment]
+6.5 Advice [expr.advice]
+6.6 Exercises [expr.exercises]
+6.6.05
+6.6.06
+6.6.07
+6.6.08
+6.6.10
+6.6.11
+6.6.12
+6.6.13
+6.6.14
+6.6.15
+6.6.16
+6.6.17
+6.6.18
+6.6.19
+6.6.20
+6.6.21
+6.6.22
+6.6.23
+Stroustrup ­ Part I ­ Chapter 7 ­ Functions                                           ­finished 0/19
+7.7 Pointer to Function [fct.pf]
+7.8 Macros [fct.macro]
+7.8.1 Conditional Compilation [fct.cond]
+7.9 Advice [dcl.advice]
+7.10 Exercises [fct.exercises]
+*7.10.01 (íåïîíÿòíû ïóíêòû 3,4,5)
+7.10.02
+7.10.03
+7.10.04
+7.10.05
+7.10.06
+7.10.07
+7.10.08
+7.10.09
+7.10.10
+7.10.11
+7.10.12
+7.10.13
+7.10.14
+7.10.15
+7.10.16
+7.10.17
+7.10.18
+7.10.19
+Stroustrup ­ Part I ­ Chapter 8 ­ Namespaces and Exceptions            ­finished 0/11
+*8.2.4.1 Interface Design Alternatives [name.alternatives]
+*8.3.1 Throw and Catch [name.throw]
+*8.3.2 Discrimination of Exceptions [name.discrimination]
+*8.3.3 Exceptions in the Calculator [name.calc]
+*8.3.3.1 Alternative Error­Handling Strategies [name.strategy]
+8.4 Advice [name.advice]
+8.5 Exercises [name.exercises]
+8.5.01
+8.5.02
+8.5.03
+8.5.04
+8.5.05
+8.5.06
+8.5.07
+8.5.08
+8.5.09
+8.5.10
+8.5.11
+Stroustrup ­ Part I ­ Chapter 9 ­ Source Files and Programs               ­finished 0/9
+9.1 Separate Compilation [file.separate]
+9.2 Linkage [file.link]
+9.2.1 Header Files [file.header]
+9.2.2 Standard Library Headers [file.std.header]
+9.2.3 The One­Definition Rule [file.odr]
+9.2.4 Linkage to Non­C++ Code [file.c]
+9.2.5 Linkage and Pointers to Functions [file.ptof]
+9.3 Using Header Files [file.using]
+9.3.1 Single Header File [file.single]
+9.3.2 Multiple Header Files [file.multi]
+9.3.2.1 Other Calculator Modules [file.multi.etc]
+9.3.2.2 Use of Headers [file.multi.use]
+9.3.3 Include Guards [file.guards]
+9.4 Programs [file.programs]
+9.4.1 Initialization of Nonlocal Variables [file.nonlocal]
+9.4.1.1 Program Termination [file.termination]
+9.5 Advice [file.advice]
+9.6 Exercises [file.exercises]
+9.6.01
+9.6.02
+9.6.03
+9.6.04
+9.6.05
+9.6.06
+9.6.07
+9.6.08
+9.6.09
+Stroustrup ­ Part II ­ Chapter 10 Classes                                             ­finished 5/20
+10.1 Introduction [class.intro]
+10.2 Classes [class.class]
+10.2.1 Member Functions [class.member]
+10.2.2 Access Control [class.access]
+10.2.3 Constructors [class.ctor]
+10.2.4 Static Members [class.static]
+10.2.5 Copying Class Objects [class.default.copy]
+10.2.6 Constant Member Functions [class.constmem]
+10.2.7 Self­Reference [class.this]
+10.2.7.1 Physical and Logical Constness [class.const]
+10.2.7.2 Mutable [class.mutable]
+10.2.8 Structures and Classes [class.struct]
+10.2.9 In­Class Function Definitions [class.inline]
+10.3 Efficient User­Defined Types [class.concrete]
+10.3.1 Member Functions [class.memfct]
+10.3.2 Helper Functions [class.helper]
+10.3.3 Overloaded Operators [class.over]
+10.3.4 The Significance of Concrete Classes [class.significance]
+10.4 Objects [class.objects]
+10.4.1 Destructors [class.dtor]
+10.4.2 Default Constructors [class.default]
+10.4.3 Construction and Destruction [class.ctor.dtor]
+*10.4.6.2 Member Constants [class.memconst]
+*10.4.6.3 Copying Members [class.mem.copy]
+*10.4.10 Temporary Objects [class.temp]
+*10.4.11 Placement of Objects [class.placement]
+*10.4.12 Unions [class.union]
+10.5 Advice [class.advice]
+10.6 Exercises [class.exercises]
+10.6.03
+10.6.06
+10.6.07
+10.6.08
+10.6.09
+10.6.10
+10.6.11
+10.6.12
+10.6.13
+10.6.14
+10.6.16
+10.6.17
+10.6.18
+10.6.19
+10.6.20
+Stroustrup ­ Part II ­ Chapter 11 Operator Overloading                       ­finished 0/22
+11.2 Operator Functions [over.oper]
+11.4 Conversion Operators [over.conversion]
+11.4.1 Ambiguities [over.ambig]
+11.5.2 Friends and Members [over.friends.members]
+11.6 Large Objects [over.large]
+11.7 Essential Operators [over.essential]
+11.7.1 Explicit Constructors [over.explicit]
+11.9 Function Call [over.call]
+11.10 Dereferencing [over.deref]
+11.11 Increment and Decrement [over.incr]
+11.12 A String Class [over.string]
+11.13 Advice [class.advice]
+11.14 Exercises [over.exercises]
+11.14.01
+11.14.02
+11.14.03
+11.14.04
+11.14.05
+11.14.06
+11.14.07
+11.14.08
+11.14.09
+11.14.10
+11.14.11
+11.14.12
+11.14.13
+11.14.14
+11.14.15
+11.14.16
+11.14.17
+11.14.18
+11.14.19
+11.14.20
+11.14.21
+11.14.22
+Stroustrup ­ Part II ­ Chapter 12 Derived Classes                               ­finished 0/14
+12.7 Exercises [derived.exercises]
+12.7.01
+12.7.02
+12.7.03
+12.7.04
+12.7.05
+12.7.06
+12.7.07
+12.7.08
+12.7.09
+12.7.10
+12.7.11
+12.7.12
+12.7.13
+12.7.14
+Stroustrup ­ Part II ­ Chapter 13 Templates                                         ­finished 0/16
+*13.2.2 Template Instantiation [temp.string.inst]
+*13.2.3 Template Parameters [temp.param]
+*13.2.5 Type Checking [temp.check]
+13.3 Function Templates [temp.fct]
+13.3.1 Function Template Arguments [temp.deduce]
+13.3.2 Function Template Overloading [temp.over]
+13.4 Using Template Arguments to Specify Policy [temp.policy]
+13.4.1 Default Template Parameters [temp.default]
+13.5 Specialization [temp.special]
+13.5.1 Order of Specializations [temp.special.order]
+13.5.2 Template Function Specialization [temp.special.fct]
+13.6 Derivation and Templates [temp.derive]
+13.6.1 Parameterization and Inheritance [temp.inherit]
+13.6.2 Member Templates [temp.member]
+13.6.3 Inheritance Relationships [temp.rel.inheritance]
+13.6.3.1 Template Conversions [temp.mem.temp]
+13.7 Source Code Organization [temp.source]
+13.8 Advice [temp.advice]
+13.9 Exercises [temp.exercises]
+13.9.01
+13.9.02
+13.9.03
+13.9.04
+13.9.05
+13.9.06
+13.9.07
+13.9.08
+13.9.09
+13.9.10
+13.9.11
+13.9.12
+13.9.13
+13.9.14
+13.9.15
+13.9.16
+Stroustrup ­ Part II ­ Chapter 14 Exception Handling                           ­finished 0/11
+14.1 Error Handling [except.error]
+14.1.1 Alternative Views on Exceptions [except.views]
+14.2 Grouping of Exceptions [except.grouping]
+14.2.1 Derived Exceptions [except.derived]
+14.2.2 Composite Exceptions [except.composite]
+14.3 Catching Exceptions [except.catch]
+14.3.1 Re­Throw [except.rethrow]
+14.3.2 Catch Every Exception [except.every]
+14.3.2.1 Order of Handlers [except.order]
+14.4 Resource Management [except.resource]
+14.4.1 Using Constructors and Destructors [except.using]
+14.4.2 Auto_ptr [except.autoptr]
+14.4.3 Caveat [except.caveat]
+14.4.4 Exceptions and New [except.new]
+14.4.5 Resource Exhaustion [except.exhaust]
+14.4.6 Exceptions in Constructors [except.ctor]
+14.4.6.1 Exceptions and Member Initialization [except.member]
+14.4.7 Exceptions in Destructors [except.dtor]
+14.5 Exceptions That Are Not Errors [except.not.error]
+14.6 Exception Specifications [except.spec]
+14.6.1 Checking Exception Specifications [except.check.spec]
+14.6.2 Unexpected Exceptions [except.unexpected]
+14.6.3 Mapping Exceptions [except.mapping]
+14.6.3.1 User Mapping of Exceptions [except.user.mapping]
+14.6.3.2 Recovering the Type of an Exception [except.recover]
+14.7 Uncaught Exceptions [except.uncaught]
+14.8 Exceptions and Efficiency [except.efficiency]
+14.9 Error­Handling Alternatives [except.alternatives]
+14.10 Standard Exceptions [except.std]
+14.11 Advice [except.advice]
+14.12 Exercises [except.exercises]
+14.12.01
+14.12.02
+14.12.03
+14.12.04
+14.12.05
+14.12.06
+14.12.07
+14.12.08
+14.12.09
+14.12.10
+14.12.11
+Stroustrup ­ Part II ­ Chapter 15 Class Hierarchies                              ­finished 0/12
+15.1 Introduction and Overview [hier.intro]
+15.2 Multiple Inheritance [hier.mi]
+15.2.1 Ambiguity Resolution [hier.ambig]
+15.2.2 Inheritance and Using­Declarations [hier.using]
+15.2.3 Replicated Base Classes [hier.replicated]
+15.2.3.1 Overriding [hier.override]
+15.2.4 Virtual Base Classes [hier.vbase]
+15.2.4.1 Programming Virtual Bases [hier.vbase.prog]
+15.2.5 Using Multiple Inheritance [hier.using.mi]
+15.2.5.1 Overriding Virtual Base Functions [hier.dominance]
+15.3 Access Control [hier.access]
+15.3.1 Protected Members [hier.protected]
+15.3.1.1 Use of Protected Members [hier.protected.use]
+15.3.2 Access to Base Classes [hier.base.access]
+15.3.2.1 Multiple Inheritance and Access Control [hier.mi.access]
+15.3.2.2 Using­Declarations and Access Control [hier.access.using]
+15.4 Run­Time Type Information [hier.rtti]
+15.4.1 Dynamic_cast [hier.dynamic.cast]
+15.4.1.1 Dynamic_cast of References [hier.re.cast]
+15.4.2 Navigating Class Hierarchies [hier.navigate]
+15.4.2.1 Static and Dynamic Casts [hier.static.cast]
+15.4.3 Class Object Construction and Destruction [hier.class.obj]
+15.4.4 Typeid and Extended Type Information [hier.typeid]
+15.4.4.1 Extended Type Information [hier.extended]
+15.4.5 Uses and Misuses of RTTI [hier.misuse]
+15.5 Pointers to Members [hier.ptom]
+15.5.1 Base and Derived Classes [hier.contravariance]
+15.6 Free Store [hier.free]
+15.6.1 Array Allocation [hier.array]
+15.6.2 “Virtual Constructors” [hier.vctor]
+15.7 Advice [hier.advice]
+15.8 Exercises [hier.exercises]
+15.8.01
+15.8.02
+15.8.03
+15.8.04
+15.8.05
+15.8.06
+15.8.07
+15.8.08
+15.8.09
+15.8.10
+15.8.11
+15.8.12
+Stroustrup ­ Part III ­ Chapter 16 Library Organization and Containers ­finished 0/15
+16.1 Standard Library Design [org.intro]
+16.1.1 Design Constraints [org.constraints]
+16.1.2 Standard Library Organization [org.org]
+16.1.3 Language Support [org.lang]
+16.2 Container Design [org.cont]
+16.2.1 Specialized Containers and Iterators [org.specialized]
+16.2.2 Based Containers [org.based]
+16.2.3 STL Containers [org.stl]
+16.3 Vector [org.vector]
+16.3.1 Types [org.types]
+16.3.2 Iterators [org.begin]
+16.3.3 Element Access [org.element]
+16.3.4 Constructors [org.ctor]
+16.3.5 Stack Operations [org.stack]
+16.3.6 List Operations [org.list]
+16.3.7 Addressing Elements [org.addressing]
+16.3.8 Size and Capacity [org.size]
+16.3.9 Other Member Functions [org.etc]
+16.3.10 Helper Functions [org.algo]
+16.3.11 Vector<bool> [org.vector.bool]
+16.4 Advice [org.advice]
+16.5 Exercises [org.exercises]
+16.5.01
+16.5.02
+16.5.03
+16.5.04
+16.5.05
+16.5.06
+16.5.07
+16.5.08
+16.5.09
+16.5.10
+16.5.11
+16.5.12
+16.5.13
+16.5.14
+16.5.15
+Stroustrup ­ Part III ­ Chapter 17 Standard Containers                          ­finished 0/35
+17.1 Standard Containers [cont.intro]
+17.1.1 Operations Summary [cont.operations]
+17.1.2 Container Summary [cont.summary]
+17.1.3 Representation [cont.rep]
+17.1.4 Element Requirements [cont.elem]
+17.1.4.1 Comparisons [cont.comp]
+17.1.4.2 Other Relational Operators [cont.relops]
+17.2 Sequences [cont.seq]
+17.2.1 Vector [cont.vector]
+17.2.2 List [cont.list]
+17.2.2.1 Splice, Sort, and Merge [cont.splice]
+17.2.2.2 Front Operations [cont.front]
+17.2.2.3 Other Operations [cont.list.etc]
+17.2.3 Deque [cont.deque]
+17.3 Sequence Adapters [cont.adapters]
+17.3.1 Stack [cont.stack]
+17.3.2 Queue [cont.queue]
+17.3.3 Priority Queue [cont.pqueue]
+17.4 Associative Containers [cont.assoc]
+17.4.1 Map [cont.map]
+17.4.1.1 Types [cont.map.types]
+17.4.1.2 Iterators and Pairs [cont.map.iter]
+17.4.1.3 Subscripting [cont.map.element]
+17.4.1.4 Constructors [cont.map.ctor]
+17.4.1.5 Comparisons [cont.map.comp]
+17.4.1.6 Map Operations [cont.map.map]
+17.4.1.7 List Operations [cont.map.modifier]
+17.4.1.8 Other Functions [cont.map.etc]
+17.4.2 Multimap [cont.multimap]
+17.4.3 Set [cont.set]
+17.4.4 Multiset [cont.multiset]
+17.5 Almost Containers [cont.etc]
+17.5.1 String [cont.string]
+17.5.2 Valarray [cont.valarray]
+17.5.3 Bitset [cont.bitset]
+17.5.3.1 Constructors [cont.bitset.ctor]
+17.5.3.2 Bit Manipulation Operations [cont.bitset.oper]
+17.5.3.3 Other Operations [cont.bitset.etc]
+17.5.4 Built­In Arrays [cont.array]
+17.6 Defining a New Container [cont.hash]
+17.6.1 Hash_map [cont.hash.map]
+17.6.2 Representation and Construction [cont.hash.rep]
+17.6.2.1 Lookup [cont.hash.lookup]
+17.6.2.2 Erase and Rehash [cont.hash.erase]
+17.6.2.3 Hashing [cont.hasher]
+17.6.3 Other Hashed Associative Containers [cont.hash.other]
+17.7 Advice [cont.advice]
+17.8 Exercises [cont.exercises]
+17.8.01
+17.8.02
+17.8.03
+17.8.04
+17.8.05
+17.8.06
+17.8.07
+17.8.08
+17.8.09
+17.8.10
+17.8.11
+17.8.12
+17.8.13
+17.8.14
+17.8.15
+17.8.16
+17.8.17
+17.8.18
+17.8.19
+17.8.20
+17.8.21
+17.8.22
+17.8.23
+17.8.24
+17.8.25
+17.8.26
+17.8.27
+17.8.28
+17.8.29
+17.8.30
+17.8.31
+17.8.32
+17.8.33
+17.8.34
+17.8.35
+Stroustrup ­ Part III ­ Chapter 18 Algorithms and Function Objects      ­finished 0/22
+18.1 Introduction [algo.intro]
+18.2 Overview of Standard Library Algorithms [algo.summary]
+18.3 Sequences and Containers [algo.seq]
+18.3.1 Input Sequences [algo.range]
+18.4 Function Objects [algo.fct]
+18.4.1 Function Object Bases [algo.bases]
+18.4.2 Predicates [algo.pred]
+18.4.2.1 Overview of Predicates [algo.pred.std]
+18.4.3 Arithmetic Function Objects [algo.arithmetic]
+18.4.4 Binders, Adapters, and Negaters [algo.adapter]
+18.4.4.1 Binders [algo.binder]
+18.4.4.2 Member Function Adapters [algo.memfct]
+18.4.4.3 Pointer to Function Adapters [algo.ptof]
+18.4.4.4 Negaters [algo.negate]
+18.5 Nonmodifying Sequence Algorithms [algo.nonmodifying]
+18.5.1 For_each [algo.foreach]
+18.5.2 The Find Family [algo.find]
+18.5.3 Count [algo.count]
+18.5.4 Equal and Mismatch [algo.equal]
+18.5.5 Search [algo.search]
+18.6 Modifying Sequence Algorithms [algo.modifying]
+18.6.1 Copy [algo.copy]
+18.6.2 Transform [algo.transform]
+18.6.3 Unique [algo.unique]
+18.6.3.1 Sorting Criteria [algo.criteria]
+18.6.4 Replace [algo.replace]
+18.6.5 Remove [algo.remove]
+18.6.6 Fill and Generate [algo.fill]
+18.6.7 Reverse and Rotate [algo.reverse]
+18.6.8 Swap [algo.swap]
+18.7 Sorted Sequences [algo.sorted]
+18.7.1 Sorting [algo.sort]
+18.7.2 Binary Search [algo.bsearch]
+18.7.3 Merge [algo.merge]
+18.7.4 Partitions [algo.partition]
+18.7.5 Set Operations on Sequences [algo.set]
+18.8 Heaps [algo.heap]
+18.9 Min and Max [algo.min]
+18.10 Permutations [algo.perm]
+18.11 C­Style Algorithms [algo.c]
+18.12 Advice [algo.advice]
+18.13 Exercises [algo.exercises]
+18.13.01
+18.13.02
+18.13.03
+18.13.04
+18.13.05
+18.13.06
+18.13.07
+18.13.08
+18.13.09
+18.13.10
+18.13.11
+18.13.12
+18.13.13
+18.13.14
+18.13.15
+18.13.16
+18.13.17
+18.13.18
+18.13.19
+18.13.20
+18.13.21
+18.13.22
+Stroustrup ­ Part III ­ Chapter 19 Iterators and Allocators                     ­finished 0/10
+19.1 Introduction [iter.intro]
+19.2 Iterators and Sequences [iter.iter]
+19.2.1 Iterator Operations [iter.oper]
+19.2.2 Iterator Traits [iter.traits]
+19.2.3 Iterator Categories [iter.cat]
+19.2.4 Inserters [iter.insert]
+19.2.5 Reverse Iterators [iter.reverse]
+19.2.6 Stream Iterators [iter.stream]
+19.2.6.1 Stream Buffers [iter.streambuf]
+19.3 Checked Iterators [iter.checked]
+19.3.1 Exceptions, Containers, and Algorithms [iter.except]
+19.4 Allocators [iter.alloc]
+19.4.1 The Standard Allocator [iter.alloc.std]
+19.4.2 A User­Defined Allocator [iter.alloc.user]
+19.4.3 Generalized Allocators [iter.general]
+19.4.4 Uninitialized Memory [iter.memory]
+19.4.5 Dynamic Memory [iter.dynamic]
+19.4.6 C­Style Allocation [iter.c]
+19.5 Advice [iter.advice]
+19.6 Exercises [iter.exercises]
+19.6.01
+19.6.02
+19.6.03
+19.6.04
+19.6.05
+19.6.06
+19.6.07
+19.6.08
+19.6.09
+19.6.10
+Stroustrup ­ Part III ­ Chapter 20 Strings                                               ­finished 0/16
+20.1 Introduction [string.intro]
+20.2 Characters [string.char]
+20.2.1 Character Traits [string.traits]
+20.3 Basic_string [string.string]
+20.3.1 Types [string.types]
+20.3.2 Iterators [string.begin]
+20.3.3 Element Access [string.elem]
+20.3.4 Constructors [string.ctor]
+20.3.5 Errors [string.error]
+20.3.6 Assignment [string.assign]
+20.3.7 Conversion to C­Style Strings [string.conv]
+20.3.8 Comparisons [string.compare]
+20.3.9 Insert [string.insert]
+20.3.10 Concatenation [string.cat]
+20.3.11 Find [string.find]
+20.3.12 Replace [string.replace]
+20.3.13 Substrings [string.sub]
+20.3.14 Size and Capacity [string.capacity]
+20.3.15 I/O Operations [string.io]
+20.3.16 Swap [string.swap]
+20.4 The C Standard Library [string.cstd]
+20.4.1 C­Style Strings [string.c]
+20.4.2 Character Classification [string.isalpha]
+20.5 Advice [string.advice]
+20.6 Exercises [string.exercises]
+20.6.01
+20.6.02
+20.6.03
+20.6.04
+20.6.05
+20.6.06
+20.6.07
+20.6.08
+20.6.09
+20.6.10
+20.6.11
+20.6.12
+20.6.13
+20.6.14
+20.6.15
+20.6.16
+Stroustrup ­ Part III ­ Chapter 21 Streams                                             ­finished 0/27
+21.1 Introduction [io.intro]
+21.2 Output  [io.out]
+21.2.1 Output Streams [io.ostream]
+21.2.2 Output of Built­In Types [io.out.builtin]
+21.2.3 Output of User­Defined Types [io.out.udt]
+21.2.3.1 Virtual Output Functions [io.virtual]
+21.3 Input  [io.in]
+21.3.1 Input Streams [io.istream]
+21.3.2 Input of Built­In Types [io.in.builtin]
+21.3.3 Stream State [io.state]
+21.3.4 Input of Characters [io.in.unformatted]
+21.3.5 Input of User­Defined Types [io.in.udt]
+21.3.6 Exceptions [io.except]
+21.3.7 Tying of Streams [io.tie]
+21.3.8 Sentries [io.sentry]
+21.4 Formatting [io.format]
+21.4.1 Format State [io.format.state]
+21.4.1.1 Copying Format State [io.copyfmt]
+21.4.2 Integer Output [io.out.int]
+21.4.3 Floating­Point Output [io.out.float]
+21.4.4 Output Fields [io.fields]
+21.4.5 Field Adjustment [io.field.adjust]
+21.4.6 Manipulators [io.manipulators]
+21.4.6.1 Manipulators Taking Arguments [io.manip.arg]
+21.4.6.2 Standard I/O Manipulators [io.std.manipulators]
+21.4.6.3 User­Defined Manipulators [io.ud.manipulators]
+21.5 File Streams and String Streams [io.files]
+21.5.1 File Streams [io.filestream]
+21.5.2 Closing of Streams [io.close]
+21.5.3 String Streams [io.stringstream]
+21.6 Buffering [io.buf]
+21.6.1 Output Streams and Buffers [io.ostreambuf]
+21.6.2 Input Streams and Buffers [io.istreambuf]
+21.6.3 Streams and Buffers [io.rdbuf]
+21.6.4 Stream Buffers [io.streambuf]
+21.7 Locale [io.locale]
+21.7.1 Stream Callbacks [io.callbacks]
+21.8 C Input/Output [io.c]
+21.9 Advice [io.advice]
+21.10 Exercises [io.exercises]
+21.10.01
+21.10.02
+21.10.03
+21.10.04
+21.10.05
+21.10.06
+21.10.07
+21.10.08
+21.10.09
+21.10.10
+21.10.11
+21.10.12
+21.10.13
+21.10.14
+21.10.15
+21.10.16
+21.10.17
+21.10.18
+21.10.19
+21.10.20
+21.10.21
+21.10.22
+21.10.23
+21.10.24
+21.10.25
+21.10.26
+21.10.27
+Stroustrup ­ Part III ­ Chapter 22 Numerics                                           ­finished 0/15
+22.1 Introduction [num.intro]
+22.2 Numeric Limits [num.limits]
+22.2.1 Limit Macros [num.limit.c]
+22.3 Standard Mathematical Functions [num.math]
+22.4 Vector Arithmetic [num.valarray]
+22.4.1 Valarray Construction [num.valarray.ctor]
+22.4.2 Valarray Subscripting and Assignment [num.valarray.sub]
+22.4.3 Member Operations [num.valarray.member]
+22.4.4 Nonmember Operations [valarray.ops]
+22.4.5 Slices [num.slice]
+22.4.6 Slice_array [num.slicearray]
+22.4.7 Temporaries, Copying, and Loops [num.matrix]
+22.4.8 Generalized Slices [num.gslice]
+22.4.9 Masks [num.mask]
+22.4.10 Indirect Arrays [num.indirect]
+22.5 Complex Arithmetic [num.complex]
+22.6 Generalized Numeric Algorithms [num.general]
+22.6.1 Accumulate [num.accumulate]
+22.6.2 Inner_product [num.inner]
+22.6.3 Incremental Change [num.incremental]
+22.7 Random Numbers [num.random]
+22.8 Advice [num.advice]
+22.9 Exercises [num.exercises]
+22.9.01
+22.9.02
+22.9.03
+22.9.04
+22.9.05
+22.9.06
+22.9.07
+22.9.08
+22.9.09
+22.9.10
+22.9.11
+22.9.12
+22.9.13
+22.9.14
+22.9.15
+Stroustrup ­ Part IV ­ Chapter 23 Development and Design                 ­finished 0/0
+23.1 Overview [design.overview]
+23.2 Introduction [design.intro]
+23.3 Aims and Means [design.aims]
+23.4 The Development Process [design.process]
+23.4.1 The Development Cycle [design.cycle]
+23.4.2 Design Aims [design.design]
+23.4.3 Design Steps [design.steps]
+23.4.3.1 Step 1: Find Classes [design.find]
+23.4.3.2 Step 2: Specify Operations [design.operations]
+23.4.3.3 Step 3: Specify Dependencies [design.dependencies]
+23.4.3.4 Step 4: Specify Interfaces [design.interfaces]
+23.4.3.5 Reorganization of Class Hierarchies [design.hier]
+23.4.3.6 Use of Models [design.model]
+23.4.4 Experimentation and Analysis [design.experiment]
+23.4.5 Testing [design.test]
+23.4.6 Software Maintenance [design.maintain]
+23.4.7 Efficiency [design.efficiency]
+23.5 Management [design.management]
+23.5.1 Reuse [design.reuse]
+23.5.2 Scale [design.scale]
+23.5.3 Individuals [design.people]
+23.5.4 Hybrid Design [design.hybrid]
+23.6 Annotated Bibliography [design.ref]
+23.7 Advice [design.advice]
+Stroustrup ­ Part IV ­ Chapter 24 Design and Programming                ­finished 0/0
+24.1 Overview [lang.overview]
+24.2 Design and Programming Language [lang.intro]
+24.2.1 Ignoring Classes [lang.ignore.class]
+24.2.2 Avoiding Inheritance [lang.avoid.hier]
+24.2.3 Ignoring Static Type Checking [lang.type]
+24.2.4 Avoiding Programming [lang.prog]
+24.2.5 Using Class Hierarchies Exclusively [lang.pure]
+24.3 Classes [lang.class]
+24.3.1 What Do Classes Represent? [lang.what]
+24.3.2 Class Hierarchies [lang.hier]
+24.3.2.1 Dependencies within a Class Hierarchy [lang.internal]
+24.3.3 Containment Relationships [lang.contain]
+24.3.4 Containment and Inheritance [lang.cont.hier]
+24.3.4.1 Member/Hierarchy Tradeoffs [lang.mem]
+24.3.4.2 Containment/Hierarchy Tradeoffs [lang.tradeoff]
+24.3.5 Use Relationships [lang.use]
+24.3.6 Programmed­In Relationships [lang.prog]
+24.3.7 Relationships within a Class [lang.within]
+24.3.7.1 Invariants [lang.invariant]
+24.3.7.2 Assertions [lang.assert]
+24.3.7.3 Preconditions and Postconditions [lang.pre]
+24.3.7.4 Encapsulation [lang.encapsulate]
+24.4 Components [lang.component]
+24.4.1 Templates [lang.temp]
+24.4.2 Interfaces and Implementations [lang.interface]
+24.4.3 Fat Interfaces [lang.fat]
+24.5 Advice [lang.advice]
+Stroustrup ­ Part IV ­ Chapter 25 Roles of Classes                              ­finished 0/19
+25.1 Kinds of Classes [role.intro]
+25.2 Concrete Types [role.concrete]
+25.2.1 Reuse of Concrete Types [role.reuse]
+25.3 Abstract Types [role.abstract]
+25.4 Node Classes [role.node]
+25.4.1 Changing Interfaces [role.io]
+25.5 Actions [role.action]
+25.6 Interface Classes [role.interface]
+25.6.1 Adjusting Interfaces [role.range]
+25.7 Handle Classes [role.handle]
+25.7.1 Operations in Handles [role.handle.op]
+25.8 Application Frameworks [role.framework]
+25.9 Advice [role.advice]
+25.10 Exercises   [role.exercises]
+25.10.01
+25.10.02
+25.10.03
+25.10.04
+25.10.05
+25.10.06
+25.10.07
+25.10.08
+25.10.09
+25.10.10
+25.10.11
+25.10.12
+25.10.13
+25.10.14
+25.10.15
+25.10.16
+25.10.17
+25.10.18
+25.10.19
