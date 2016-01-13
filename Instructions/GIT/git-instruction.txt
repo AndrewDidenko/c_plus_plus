@@ -2,4 +2,4 @@
 
 git config --global user.name "First Last"         #set username
 git config --global user.email "aaa@gmail.com"     #set user's email
-git config --global --list            #показать информацию в конфигурационных файлах.
+git config --global --list                         #show config file information
